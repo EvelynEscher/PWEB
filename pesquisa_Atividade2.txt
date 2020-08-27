@@ -1,0 +1,265 @@
+
+ APLICATIVO NATIVO, WEB APP OU APLICATIVO HÍBRIDO? 2020. Disponível em: https://usemobile.com.br/aplicativo-nativo-web-hibrido/. Acesso em: 26 ago. 2020.
+Ao se pensar em criar um aplicativo, algumas perguntas devem ser respondidas. Entre elas está: quero desenvolver um aplicativo nativo, um web App ou um aplicativo híbrido?
+
+Para responder a essa pergunta, alguns fatores devem ser analisados. Cada um é desenvolvido de uma maneira e você deve pensar quais funções seu App oferecerá aos usuários, pois esse fator interfere diretamente no tipo de desenvolvimento. Seu aplicativo sempre deve oferecer uma boa experiência ao usuário, então você deve analisar aquele tipo que conseguirá suprir as necessidades deles.
+
+Claro que as três formas apresentam tempos diferentes de desenvolvimento. Logo, você deve analisar se o tempo de cada tipo se adequa ao prazo que você pretende lançar seu aplicativo e se o orçamento está dentro do planejado.
+
+As perguntas exaltadas acima e qual o melhor tipo de desenvolvimento, você confere a seguir!
+
+Nesse artigo você irá aprender sobre:
+
+O que é um app nativo?
+O que são Web Apps?
+O que é um aplicativo híbrido?
+Infográfico
+Qual é melhor?
+O que é um aplicativo nativo?
+Aplicativo nativo é exatamente o que te vêm à cabeça quando se fala em aplicativo. É o tipo de aplicativo comumente encontrado nas lojas de aplicativos. São construídos em uma linguagem exclusiva para um determinado sistema operacional.
+
+Existem dois tipos de sistemas operacionais dominantes nos smartphones: Android e iOS. A diferença entre eles não é apenas estética, pois o que foi desenvolvido para um não funciona no outro. Afinal, cada plataforma apresenta suas próprias ferramentas e elementos de interface.
+
+Um aplicativo nativo é programado na linguagem do seu respectivo sistema, como Java e Kotlin no Android e Objective-C e Swift no iOS — mas há também outras linguagens para cada sistema.
+
+Características
+Por serem programados exclusivamente para o sistema operacional, o aplicativo nativo é mais rápido e confiável que os demais. Isso porque ele apresenta uma melhor experiência para o usuário ao conseguir utilizar todos os recursos oferecidos pelos smartphones como câmera, GPS e notificações push.
+
+Essa programação própria para o sistema operacional faz com que o desempenho do aplicativo nativo seja muito bom. Aplicativos nativos também possuem um maior tempo de utilização do que os demais por poderem funcionar sem conexão internet.
+
+Ao se programar um aplicativo nativo, os desenvolvedores respeitam a um padrão de design. Guias são oferecidos para cada sistema operacional, como o guia de design Android e o guia de design iOS, que contém as melhores práticas para proporcionar uma boa experiência ao usuário.
+
+Nesse tipo de aplicação, os desenvolvedores utilizam o chamado Ambiente de Desenvolvimento Integrado, vulgo IDE. Ele fornece ferramentas que auxiliam na construção do aplicativo e auxiliam a agilizar o processo. Juntamente com o know how que a equipe de desenvolvedores já possui, o processo fica ainda mais rápido e efetivo.
+
+Alguns exemplos de aplicativos nativos que são excelentes e provavelmente você utiliza são: WhatsApp, Facebook Messenger, Waze e Uber.
+
+O aplicativo nativo apenas funciona na plataforma que ele foi desenvolvido. Caso você o queira em mais de uma plataforma, pode optar por um plano de desenvolvimento que englobe tanto Objective-C como Javascript.
+
+Os custos também podem ser um pouco mais elevados por você ter que manter os aplicativos em cada App Store. Mas a opção do seu usuário baixar seu aplicativo, usá-lo offline e o bom desempenho que ele terá valem o investimento.
+
+O que são Web Apps
+Web App não é um aplicativo real e não estará disponível nas App Stores. Na verdade, é um site desenvolvido exclusivamente para dispositivos móveis. Possui uma programação que reconhece que o usuário está acessando por um smartphone e se adapta a ele.
+
+Os códigos otimizados para dispositivos mobile oferecem uma boa experiência ao usuário. Quando a ideia é apenas apresentar conteúdo ou apenas ter presença mobile online, eles são uma excelente opção por serem mais baratos e fáceis de desenvolver. Toda sua programação é feita utilizando HTML5, Cascading Style Sheets (CSS) e Javascript.
+
+Como é um site, o web App pode ser acessado de qualquer sistema operacional, desde que possua um navegador como o Google Chrome e o Safari instalado. Como você não faz o download do web App, ele não consome memória do seu celular.
+
+O Web App necessita de conexão com a internet para ser acessado e não consegue utilizar todas as funcionalidades do seu dispositivo. São mais lentos que os aplicativos nativos por não serem integrados ao sistema operacional.
+
+Como o web App não estará nas lojas de aplicativos, você perde uma importante fonte de tráfego e de downloads. Sua logo marca não fica na tela do usuário o tempo todo e o seu acesso costuma ser menor que o de um aplicativo nativo. Além disso, sua base de usuários recorrentes será menor e eles precisam fazer login para acessar o app.
+
+Ademais, os web apps não apresentam a mesma segurança que os outros tipos de aplicativos, podendo comprometer seu dispositivo. O CifraClub é um bom exemplo de webapp para você acessar e experimentar.
+
+O que é um aplicativo híbrido?
+O aplicativo híbrido, como o próprio nome já sugere, é uma mistura de um aplicativo nativo e um web App.
+
+O aplicativo híbrido é construído na linguagem HTML5, CSS e Javascript, assim como o site mobile. Esse código é alocado dentro de um container, integrando as funcionalidades que o seu dispositivo oferece, oferecendo uma experiência melhor ao usuário que os web Apps.
+
+Assim, apenas uma parte do código nativo deverá ser escrito para esses apps. Isso possibilita que apenas uma parte do código seja reescrita caso queira oferecer o aplicativo para outra plataforma.
+
+Eles estarão disponíveis para download nas lojas de aplicativos, oferecendo um canal de tráfego e download. Da mesma forma como o aplicativo nativo, o híbrido apresenta um custo de manutenção nas lojas.
+
+Além disso, os híbridos são mais simples e, consequentemente, mais rápidos de desenvolver, e não se é necessário fazer o download sempre que uma atualização for feita em seu aplicativo. Mas sua utilização ainda dependerá de conexão com a internet e da velocidade da mesma, não funcionando tão rápido quanto um aplicativo nativo. 
+
+No entanto, isso não exclui a possibilidade de algumas funções do app funcionar offline, mas a internet é necessária para as atualizações do aplicativo.
+
+Para funcionar corretamente em qualquer plataforma, o aplicativo híbrido necessitará de um certo tempo e trabalho duro dos desenvolvedores. Em algumas situações eles podem ter o custo bem parecido com um aplicativo nativo, dependendo do quão excelente você quer que seja a experiência oferecida ao usuário.
+
+Um exemplo de aplicativo híbrido muito bem construído é o da Netflix, que utiliza a mesma interface para todos os dispositivos. Eles trocam essa interface de acordo com cada dispositivo. Assim a tela fica do tamanho ideal para o dispositivo. O serviço de carregamento de streaming é todo feito em código nativo para garantir uma melhor performance, preocupando-se em garantir a melhor experiência para o usuário.
+
+Mas afinal, qual é o melhor?
+Não existe uma resposta para essa pergunta, tudo depende de sua análise e do propósito do seu aplicativo. Aumentar a produtividade da equipe, automatizar processos, se aproximar dos clientes ou fortalecer a marca. São várias as possibilidades e razões para sua empresa possuir um aplicativo.
+
+Analise o quanto você tem para investir, o tempo de desenvolvimento planejado e as funcionalidades que o aplicativo terá. Lembre-se do foco em garantir uma boa experiência para o usuário. O aplicativo só será um sucesso se ele resolver o problema das pessoas de maneira fácil e prazerosa. Por isso garanta agilidade de carregamento e uma interface simples e interativa.
+
+Pense em qual das três formas atenderá melhor para você ou seu negócio e invista em um aplicativo nativo, web ou híbrido.
+
+Conhece mais exemplos de aplicativos que não citamos? Comente com a gente!
+========================================================================================================
+
+YANG, Hugo (ed.). Qual a diferença entre web app, app nativo e app híbrido? 2017. Disponível em: https://blog.fabricadeaplicativos.com.br/fabrica/qual-diferenca-entre-web-app-app-nativo-e-aplicativo-hibrido/. Acesso em: 26 ago. 2020.
+Escolher a tecnologia a ser utilizada é uma difícil decisão para a grande maioria dos projetos. Se for um aplicativo, cedo ou tarde você vai se deparar com a questão: web app, app híbrido ou app nativo? De todos os usuários de smartphones, 84% utilizam Android e 16% iOS e você precisa decidir qual público quer atingir ao decidir que tecnologia usar. Se você sabe ou não a diferença dos três, este artigo vai eliminar todas as suas dúvidas e apresentar as vantagens e desvantagens de cada um.
+
+ 
+
+Para ficar ainda mais clara a diferença entre os apps, abaixo selecionamos alguns pontos:
+ 
+
+Eles se diferenciam na maneira e requisitos para serem desenvolvidos, na experiência que oferecem para o usuário do aplicativo, seja de interface, de performance e também no objetivo de cada. Basicamente, a resposta que tenho para a pergunta acima, sobre qual tecnologia usar, é: depende. Depende do seu orçamento, do mercado de atuação, do perfil do usuário, das experiências passadas e de suas competências. Quando você utiliza o plano gratuito na Fábrica de Aplicativos, o seu app será web. Após assinar um dos planos, o app pode ser publicado na versão app híbrido.
+
+ 
+
+Web App
+ 
+
+O web app, na verdade, é uma página na internet acessada como qualquer outro site através de um navegador e desenvolvido, geralmente, em HTML5. O acesso é por uma URL e o usuário tem a opção de instalar o app na tela inicial do aparelho, criando um atalho para acessá-lo. Diferentemente do app nativo e do híbrido, o web app não utiliza as funcionalidades do dispositivo, como câmera e GPS, além disso não ocupa espaço na memória do aparelho, a visualização é por um navegador e só funciona se estiver conectado à internet. O design é de um web app com a interface mobile e o custo é bem mais baixo comparado ao app nativo, por exemplo.
+
+ 
+
+Para quem acreditava que o webapp era algo que morreria, a última pesquisa da Gartner mostrou o contrário. Aí vem a era dos web apps progressivos.
+
+ 
+
+Aplicativo Nativo
+ 
+
+O aplicativo nativo fica armazenado no dispositivo (smartphone) e é baixado diretamente pelas lojas, Google Play (Android) ou App Store (iOS). Este app é desenvolvido pelas linguagens nativas destas plataformas e podem utilizar as funcionalidades específicas do dispositivo, como câmera, GPS, contatos, etc, além de possuir uma integração diretamente com as bibliotecas de cada um deles.
+
+ 
+
+O app nativo tem um custo mais elevado, pois tem uma linguagem própria e específica do sistema operacional, desenvolvida para cada plataforma. Para você publicar o aplicativo nas lojas é necessário uma aprovação, ou seja, ele precisa estar de acordo com as políticas internas de cada uma delas. Além disso, normalmente, o app também funciona no modo offline.
+
+ 
+
+Aplicativo Híbrido
+ 
+
+O aplicativo híbrido, diferente do nativo, não foi desenvolvido completamente na linguagem específica de cada sistema operacional, o app utiliza várias linguagens e engloba dois formatos: é metade nativo e metade web app. Assim como os nativos, também pode ser baixado pelas lojas e utilizar as funcionalidades do dispositivo, mas a diferença é que também permite o acesso através da Web App, inserindo uma página web, por exemplo, onde as informações são integradas do site para o app.
+
+ 
+
+O app híbrido tem um custo mais baixo, pois envolve parte de linguagem nativa e a outra parte é web apps. Então, se você busca uma usabilidade bem próxima do nativo, o app híbrido vai sanar a sua necessidade. A comunidade web é gigantesca e trabalha para facilitar cada vez mais esta tecnologia, como Ionic e também React JS.
+
+ 
+
+Conclusão
+ 
+
+Agora você pode escolher qual tecnologia utilizar. Mas sei que vai usar a plataforma da Fábrica de Aplicativos, pois ela traz um custo 20 vezes menor que o do mercado, com a possibilidade de ter um web app e um app híbrido. Depois de criar seu app, não deixe de publicá-lo nas lojas da Apple e Google.
+
+
+SILVA, Douglas da. Aplicativo nativo, web app ou site responsivo? Conheça todas as diferença!: aiba o que são sites responsivos, web apps e aplicativos nativos e suas principais diferenças. aiba o que são sites responsivos, web apps e aplicativos nativos e suas principais diferenças. Disponível em: https://www.moblee.com.br/blog/aplicativo-nativo-web-app-ou-site-responsivo/. Acesso em: 26 ago. 2020.
+
+
+ntes de iniciar qualquer discussão nesse assunto, precisamos partir do seguinte pressuposto: muitos organizadores de eventos — se não a maioria — não sabem qual é a diferença entre um site responsivo, um web app e um aplicativo nativo.
+
+Sabem apenas que o seu evento precisa de algum tipo de solução mobile, como é o caso do aplicativo para eventos.
+
+Mas diferentes eventos demandam diferentes soluções, e o mercado está abarrotado de fornecedores tentando convencer a todos de que a sua solução é a definitiva.
+
+Algumas empresas, por exemplo, trabalham com o desenvolvimento de aplicativos nativos, mas é importante ter em mente que, nem sempre, eles serão a solução adequada a certas necessidades.
+
+Afinal, ao contrário do que muitos costumam pensar, essa é uma discussão que não precisa ter vencedor ou perdedor — o importante é que você seja capaz de realizar uma escolha consciente e apropriada.
+
+Só assim todos ficarão felizes: organizadores, desenvolvedores e, o mais importante, o público do seu evento.
+
+Deixando de lado todo o linguajar técnico, afinal:
+
+O que são sites responsivos, web apps e aplicativos nativos?;
+Quais são as suas diferenças, vantagens e desvantagens?;
+Ou, ainda, se quiser pular diretamente para parte em que você descobre qual é a solução mais interessante para o seu evento.
+Confira tudo que preparamos para você:
+
+Os sites responsivos: principais características
+Quantos dispositivos diferentes você costuma usar para acessar a internet? Talvez utilize um tablet enquanto está deitado no sofá de casa, um notebook ou computador de mesa no seu trabalho, ou, ainda, seu smartphone na fila do banco.
+
+Cada um desses dispositivos têm telas de diferentes dimensões e que, portanto, comportam diferentes quantidades de informação. Já pensou se você tivesse que desenvolver uma versão do site do seu evento para cada um desses dispositivos?
+
+Até pouco tempo, era comum que eles fossem projetados tendo em conta uma única resolução de tela. Normalmente, ela era escolhida tentando conciliar o uso entre os diferentes dispositivos utilizados.
+
+Como resultado, tinha-se um site que funcionava de maneira razoável na maioria deles, mas raramente aproveitava adequadamente o espaço disponível.
+
+O que desencadeou as mudanças nos sites?
+Com a popularização dos smartphones, tornou-se comum a construção de versões de sites otimizados para dispositivos móveis. No entanto, atualmente até mesmo a variação na dimensão das telas de smartphones é grande.
+
+Para resolver o problema, criou-se o conceito de design responsivo, no qual os diferentes elementos que compõem um site são automaticamente reorganizados e redimensionados de acordo com o tamanho da tela do dispositivo que o acessa.
+
+Assim, a experiência do usuário se torna consistentemente melhor e, ao mesmo tempo, elimina-se a necessidade de se desenvolver uma versão móvel do seu site.
+
+Ter um site responsivo já deixou de ser tendência e tornou-se obrigação. É uma maneira de permitir que o participante do seu evento possa ter acesso a uma experiência mobile de qualidade.
+
+Porém, somente tornar seu site responsivo não é suficiente.
+
+Veja abaixo os motivos para deixar o site do seu evento responsivo:
+
+A importância dos sites responsivos para planejamento e organização de eventos
+É necessário que você tenha um site próprio para o evento que, além de ser um site responsivo, também seja otimizado para que sua comunicação com o público seja melhor, elevando sua taxa de conversão. Afinal, o seu objetivo é vender mais ingressos online, não é mesmo?
+
+Mas por que o seu evento precisa de um bom site?
+
+Diariamente, várias pessoas podem acessar a página na web e não se inscreverem para participar do evento. Por isso, você precisa ter uma plataforma que ofereça ferramentas para criação de sites com resultados melhores.
+
+Além disso, é de extrema importância que ele esteja com o SEO bem otimizado, de forma que seja melhor ranqueado nos mecanismos de busca, como o Google.
+
+Como criar um site responsivo para o seu evento
+Outra coisa de extrema importância é que o site dedicado gere informações em tempo real, facilitando a adaptação ou alteração das suas estratégias, de forma a evitar o desperdício de tempo e aumentar as chances de conversão dos participantes.
+
+Essas informações também são muito interessantes para ajudar a montar planilhas para organizar eventos mais facilmente, devido à grande quantidade de dados que a página da web fornece.
+
+A mobLee oferece uma plataforma que cumpre todos esses papéis e, além disso, é integrada com a venda de ingressos do seu evento. Ela é completamente informativa e orientada para resultados, permitindo que toda a divulgação do seu evento seja feita por lá de maneira eficaz e focada em converter os visitantes da página em inscritos.
+
+Dê uma olhada no evento do Leader Conference, um de nossos cases de sucesso utilizando o Promote.
+
+Conhecer o Promote e fazer um orçamento
+O web app: principais características
+De maneira concisa, podemos definir um web app como um site otimizado especificamente para dispositivos móveis.
+
+Mas agora você deve estar se perguntando: por que eu investiria em um web app se um site responsivo já faz, basicamente, a mesma coisa?
+
+De fato, essa é uma pergunta bastante pertinente, principalmente considerando que, mesmo desenvolvendo um desses, continua sendo importante ter um site responsivo para o seu evento.
+
+As vantagens do web app
+A grande sacada é que ele se aproxima ligeiramente da experiência de uso de um aplicativo nativo, porém com um custo de implementação inferior. O fato de serem projetados tendo em mente apenas dispositivos móveis tende a propiciar melhorias na interface do usuário, se comparados a sites responsivos visualizados em celulares.
+
+Da mesma forma, também os torna mais eficazes no consumo de dados. Em termos de funcionalidade, pouco ou nada diferem de um site responsivo, mas é a forma como dispõem essas funções que os torna especiais.
+
+Também em comum com os sites responsivos, os web apps têm a vantagem de, por natureza, serem multiplataforma. Já que estão inteiramente hospedados online, são acessíveis por qualquer smartphone a partir de seu navegador.
+
+Isso reduz os custos de desenvolvimento, já que o mesmo código servirá a donos de iPhone e Android ou mesmo de plataformas menos populares. Portanto, ambos são soluções bastante flexíveis em termos de custo e funcionalidade.
+
+Mas você precisa ficar atento, já que eles — diferentemente do aplicativo nativo — funcionam apenas quando o usuário está com acesso à internet.
+
+Portanto, se o participante não tiver conexão em seu aparelho, ele não conseguirá acessar o aplicativo, podendo prejudicar a interação com seu evento.
+
+Outra coisa importante para lembrar é que, com o web app, não é possível utilizar recursos do telefone, como GPS e câmera.
+
+O aplicativo nativo: principais características
+Aplicativos nativos são aqueles que normalmente nos vêm à cabeça quando pensamos no termo “aplicativo”.
+
+Ou seja, são as aplicações disponíveis em nossos smartphones e tablets e que costumam estar acessíveis para download em lojas online como Google Play em dispositivos Android ou Apple Store em dispositivos iOS, como iPhones e iPads.
+
+Os diferentes sistemas operacionais móveis presentes no mercado utilizam diferentes linguagens de programação, o que faz com que ele tenha de ser reescrito tendo em conta em que será instalado, justificando o uso da expressão “aplicativo nativo”.
+
+Por conta disso, o custo e o tempo necessários a se desenvolver um aplicativo nativo costumam ser substancialmente maiores se comparados ao das opções anteriores.
+
+Tudo sobre aplicativos para eventos
+
+As vantagens dos aplicativos nativos
+O desenvolvimento nativo traz uma série de vantagens, pois permite aproveitar melhor os recursos de hardware do dispositivo no qual está instalado, como câmera, GPS e os diversos sensores que costumam equipar celulares.
+
+Para organizadores de eventos, talvez mais importante do que isso seja o fato de que, uma vez realizado o download do aplicativo, o participante terá acesso às informações referentes a ele, como palestrantes, programação, estandes ou mapa, mesmo que esteja sem acesso à internet.
+
+Isso é fundamental quando consideramos os problemas frequentes nas redes de dados das operadoras de celular ou a infraestrutura de comunicação problemática que diversos pavilhões de eventos oferecem.
+
+Apesar de suas úteis funcionalidades mesmo quando offline, aplicativos nativos têm seu uso potencializado quando conectados. Eles podem apresentar desde funções relativamente simples, como o envio de notificações informativas em tempo real para os participantes, até recursos mais complexos, como a integração com plataformas de perguntas e respostas ou mecanismos de networking entre eles.
+
+
+O potencial de monetização dos aplicativos nativos
+A despeito dos custos de desenvolvimento ligeiramente superiores, diferentemente de web apps e sites responsivos, aplicativos nativos para eventos costumam apresentar grande potencial de monetização, a partir da venda de espaços de patrocínio. Isso permite que diversos organizadores não apenas recuperem seu investimento, como também obtenham lucro.
+
+A monetização pode se dar tanto pela oferta de espaços de publicidade no app quanto por meio da venda dos dados gerados pelo seu uso aos seus patrocinadores.
+
+Enquanto as alternativas anteriores não permitem discernir entre os diferentes acessos, aplicativos nativos fornecem dados mais precisos, fazendo com que você consiga analisar o comportamento de cada um dos participantes.
+
+Por fim, cabe ressaltar que alguns dos problemas normalmente associados à sua adoção, como dificuldades e complicação na atualização de dados, ou mesmo o tempo de desenvolvimento por vezes extenso, não necessariamente são problemas universais desse tipo de solução.
+
+A mobLee, por exemplo, dispõe de uma plataforma que permite que nossos clientes alimentem os dados de seus aplicativos de maneira rápida e descomplicada, somando-se, ainda, a um tempo de desenvolvimento e implementação bastante reduzido.
+
+Com ela, é possível obter diversas vantagens em relação à coleta de dados do seu público. Com essa plataforma, você tem acesso a uma série de novidades tecnológicas que vão ajudar na obtenção de melhores resultados para o seu evento.
+
+Assim, você consegue mais engajamento e mantém os participantes atualizados de qualquer novidade, já que qualquer alteração realizada é implantada em tempo real.
+
+Você também permite que os participantes criem uma rede de networking contínua, já que a plataforma permite a troca de mensagens entre os usuários do app. Além disso, há diversos recursos que são bastante interessantes para os participantes, como:
+
+Agendas interativas com toda a programação do evento;
+Rede social privada na qual cada um pode criar seu perfil e interagir com outros usuários;
+Técnicas de gamification, no qual aqueles que mais interagirem no aplicativo são classificados por pontuação e os melhores colocados podem ganhar prêmios;
+Recurso de matchmaking, onde os participantes com os mesmos interesses podem conectar-se entre si.
+Conhecer mais recursos de um aplicativo
+
+Tudo isso com o benefício de se poder capturar informações geradas em tempo real por meio do app — o que ajuda a avaliar o engajamento, a utilização do recurso de mensagens para networking e o desempenho dos banners nos espaços destinados à publicidade. Todos esses dados podem ser utilizados, por meio de uma plataforma CRM, para gerar mais leads.
+
+A tomada de decisão
+Tendo ciência das opções e das diferenças entre aplicativo nativo, web app e site responsivo, você poderá tomar uma decisão mais embasada para superar o desafio de fazer um evento de sucesso e com resultados positivos.
+
+Se você gostou do post e das dicas, aproveite para compartilhar em suas redes sociais e mostrar o quanto você está atualizado com as novidades tecnológicas do momento!
