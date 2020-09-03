@@ -78,6 +78,7 @@ Conhece mais exemplos de aplicativos que não citamos? Comente com a gente!
 ========================================================================================================
 
 YANG, Hugo (ed.). Qual a diferença entre web app, app nativo e app híbrido? 2017. Disponível em: https://blog.fabricadeaplicativos.com.br/fabrica/qual-diferenca-entre-web-app-app-nativo-e-aplicativo-hibrido/. Acesso em: 26 ago. 2020.
+
 Escolher a tecnologia a ser utilizada é uma difícil decisão para a grande maioria dos projetos. Se for um aplicativo, cedo ou tarde você vai se deparar com a questão: web app, app híbrido ou app nativo? De todos os usuários de smartphones, 84% utilizam Android e 16% iOS e você precisa decidir qual público quer atingir ao decidir que tecnologia usar. Se você sabe ou não a diferença dos três, este artigo vai eliminar todas as suas dúvidas e apresentar as vantagens e desvantagens de cada um.
 
  
