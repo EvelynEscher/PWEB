@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Teste DOM </title>
+</head>
+
+<body>
+    <h1>Título 1</h1>
+    <p>Primeiro Parágrafo</p>
+    <h2> Título2 </h2>
+    <script>
+        var divida_inicial = 2000;
+
+        function atualizar_divida(recebe) {
+            divida_inicial -= recebe;
+            return divida_inicial;
+        }
+
+        for (var i = 0; i <= 12; i++)
+            atualizar_divida(85);
+        
+        alert(divida_inicial);
+    </script>
+</body>
+
+</html>
