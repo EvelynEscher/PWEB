@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<form action="entradaDados">
+	<div class="exercicio12">
+		<p>Exercicio 12 - ordenação de numeros</p>
+		<input type="number" placeholder="insira o primeiro numero" id= "primeiro">
+		<input type="number" placeholder="insira o segundo numero"id= "segundo" >
+		<input type="number" placeholder="insira o terceiro numero" id = "terceiro">
+		<button onclick="ordenacaoArray();" >clica aqui</button>
+	</div>
+
+	<div class="triangulos">
+		<p>Exercicio 13 - triangulos</p>
+		<input type="number" placeholder="insira o primeiro vértice">
+		<input type="number" placeholder="insira o segundo vértice">
+		<input type="number" placeholder="insira o terceiro vértice">
+
+	</div>
+
+</form>
+
+<body>
+
+	<script>
+
+
+		// exercício 12
+		
+
+		function ordenacaoArray(num1, num2, num3) {
+			var array = [num1, num2, num3];
+			array.sort(function (a, b) { return a - b })
+
+			return array;
+		}
+
+		console.log(ordenacaoArray(3, 2, 0));
+
+		// exercicio 13
+		function Triangulo(vertice1, vertice2, vertice3) {
+			this.vertice1 = vertice1;
+			this.vertice2 = vertice2;
+			this.vertice3 = vertice3;
+
+			if (vertice1 == vertice2 && vertice2 == vertice3 && vertice1 == vertice3)
+				console.log("Triangulo equilatero!");
+
+			else if (vertice1 != vertice2 && vertice2 != vertice3 && vertice3 != vertice1)
+				console.log("Triangulo escaleno!");
+
+			else
+				console.log("Triangulo isóceles!");
+
+		}
+
+		Triangulo(1, 2, 6);
+		Triangulo(5, 5, 5);
+		Triangulo(2, 2, 5);
+	</script>
+</body>
+
+</html>

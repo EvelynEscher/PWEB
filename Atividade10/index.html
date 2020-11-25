@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Atividade 10</title>
+	<script src="/script.js"></script>
+</head>
+
+<body>
+	<form action="Input" name="formulario" onsubmit="responderPesquisa();">
+		<div class="naocurtojavascript">
+
+			<label for="nome">nome</label>
+			<input type="text" id="nome">
+
+			<label for="email">e-mail</label>
+			<input type="email" name="" id="email">
+
+			<label for="comentario">comentários</label>
+			<input type="text" name="" id="comentario">
+
+			<label for="pesquisa">Pesquisa:</label>
+			<p>primeira vez na página?</p>
+
+			<label for="sim">sim</label>
+			<input type="radio" name="sim" id="yes">
+
+			<label for="no">não</label>
+			<input type="radio" name="nao" id="no">
+
+			<input type="button" value="enviar" onclick="enviarValores();">
+			<input type="button" value="limpar" onclick="limparHTML();">
+		</div>
+
+	</form>
+	
+</body>
+
+</html>
