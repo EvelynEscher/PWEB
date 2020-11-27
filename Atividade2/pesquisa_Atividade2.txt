@@ -1,5 +1,5 @@
 
- APLICATIVO NATIVO, WEB APP OU APLICATIVO HÍBRIDO? 2020. Disponível em: https://usemobile.com.br/aplicativo-nativo-web-hibrido/. Acesso em: 26 ago. 2020.
+ APLICATIVO NATIVO, WEB APP OU APLICATIVO HÍBRIDO? 2020. Disponível em: https://usemobile.com.br/aplicativo-nativo-web-hibrido/. Acesso em: 26 ago. 2020..
 Ao se pensar em criar um aplicativo, algumas perguntas devem ser respondidas. Entre elas está: quero desenvolver um aplicativo nativo, um web App ou um aplicativo híbrido?
 
 Para responder a essa pergunta, alguns fatores devem ser analisados. Cada um é desenvolvido de uma maneira e você deve pensar quais funções seu App oferecerá aos usuários, pois esse fator interfere diretamente no tipo de desenvolvimento. Seu aplicativo sempre deve oferecer uma boa experiência ao usuário, então você deve analisar aquele tipo que conseguirá suprir as necessidades deles.
